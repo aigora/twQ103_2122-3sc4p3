@@ -3,9 +3,9 @@
 [Descripción breve del proyecto a realizar (2-3 frases).]
 
 ## Integrantes del equipo
-Valeria Colmenares (valeeria15)
-Lucia Marcos (luciamarcos)
-Arturo Bolivar (arturobcas)
+-Valeria Colmenares (valeeria15)
+-Lucia Marcos (luciamarcos)
+-Arturo Bolivar (arturobcas)
 
 ## Objetivos del trabajo
 

@@ -1,10 +1,10 @@
-# [Título del trabajo]
+# [3SC4P3]
 
 [Descripción breve del proyecto a realizar (2-3 frases).]
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Valeria Colmenares (valeeria15), Lucia Marcos (luciamarcos), Arturo Bolivar (arturobcas)
 
 ## Objetivos del trabajo
 

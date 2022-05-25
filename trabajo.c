@@ -875,9 +875,10 @@ int opcion6, solucion6;
 	// ACERTIJO 10 (FINAL)
 	
 	imprimir_enunciados(nivel);	
+	printf("\n");
 	bandera=false;
 	for(i=0; i<numjugadores; i++){
-	    printf("%s con %d quimicripton\n ", jugadores[i].nombre, jugadores[i].puntos);
+	    printf("La partida termina con %s con %d quimicripton\n ", jugadores[i].nombre, jugadores[i].puntos);
 	}
 	break;
 	
